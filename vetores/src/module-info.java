@@ -4,5 +4,5 @@
 /**
  * 
  */
-module lacos_repeticao {
+module vetores {
 }
