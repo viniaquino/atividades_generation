@@ -30,6 +30,8 @@ public class Exercicio4 {
 		} else {
 			System.out.println("O número " + pesquisa + " não foi encontrado!");
 		}
+		
+		scanner.close();
 	}
 
 }
