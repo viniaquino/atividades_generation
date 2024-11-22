@@ -13,13 +13,13 @@ CREATE TABLE tb_colaboradores (
 );
 
 INSERT INTO tb_colaboradores(nome,email,cargo,data_admissao,salario)
-VALUES ("Geandro","geandro@generation.com","Instrutor","2020-06-1",10000.00);
+VALUES ("Geandro","geandro@generation.com","Instrutor","2020-06-01",10000.00);
 INSERT INTO tb_colaboradores(nome,email,cargo,data_admissao,salario)
-VALUES ("Lorena","lorena@generation.com","Instrutor","2024-06-1",10000.00);
+VALUES ("Lorena","lorena@generation.com","Instrutor","2024-06-01",10000.00);
 INSERT INTO tb_colaboradores(nome,email,cargo,data_admissao,salario)
 VALUES ("Vinicius","vinicius@generation.com","Dev Fullstack","2024-10-17",1000.00);
 INSERT INTO tb_colaboradores(nome,email,cargo,data_admissao,salario)
-VALUES ("Aimee","aimee@generation.com","Instrutor","2021-03-1",10000.00);
+VALUES ("Aimee","aimee@generation.com","Instrutor","2021-03-01",10000.00);
 INSERT INTO tb_colaboradores(nome,email,cargo,data_admissao,salario)
 VALUES ("Felipe","felipe@generation.com","Instrutor","2024-10-01",10000.00);
 
