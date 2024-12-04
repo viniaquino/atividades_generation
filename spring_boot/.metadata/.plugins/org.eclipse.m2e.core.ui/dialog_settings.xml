@@ -2,6 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\dev\projetointegrador"/>
+			<item value="C:\dev\teste"/>
+			<item value="C:\dev\pi-sistemarh"/>
 			<item value="C:\dev\generation\spring_boot\helloworld"/>
 			<item value="C:\Users\Vinicius\OneDrive\Desktop\helloworld"/>
 		</list>
